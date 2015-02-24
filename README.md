@@ -1,2 +1,2 @@
-# Cousera_Data_Analysis
-Cousera_Data_Analysis
+# datasciencecoursera
+datasciencecoursera
